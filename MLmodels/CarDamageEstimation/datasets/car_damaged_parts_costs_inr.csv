@@ -1,0 +1,101 @@
+company,part_name,min_cost_inr,max_cost_inr
+Maruti,damaged door,3202,14798
+Maruti,damaged window,4390,10035
+Maruti,damaged right headlight,8003,10028
+Maruti,damaged left headlight,3010,10719
+Maruti,damaged mirror,9894,18076
+Maruti,dent,9243,16015
+Maruti,damaged hood,4714,7365
+Maruti,damaged front bumper,7457,10400
+Maruti,damaged rear bumper,5391,8428
+Maruti,damaged windshield,5567,20464
+Hyundai,damaged door,8270,13369
+Hyundai,damaged window,6298,10033
+Hyundai,damaged right headlight,4421,16542
+Hyundai,damaged left headlight,7368,17029
+Hyundai,damaged mirror,6973,11098
+Hyundai,dent,4323,8526
+Hyundai,damaged hood,8077,17652
+Hyundai,damaged front bumper,5785,12520
+Hyundai,damaged rear bumper,7989,13733
+Hyundai,damaged windshield,6350,17402
+Toyota,damaged door,3417,15049
+Toyota,damaged window,8587,22352
+Toyota,damaged right headlight,3346,11324
+Toyota,damaged left headlight,6765,19611
+Toyota,damaged mirror,7539,10311
+Toyota,dent,8312,16100
+Toyota,damaged hood,8754,14962
+Toyota,damaged front bumper,8140,19224
+Toyota,damaged rear bumper,5124,13698
+Toyota,damaged windshield,4263,7002
+Honda,damaged door,9841,16315
+Honda,damaged window,7370,17697
+Honda,damaged right headlight,9722,17534
+Honda,damaged left headlight,4808,12773
+Honda,damaged mirror,5031,18320
+Honda,dent,5022,13345
+Honda,damaged hood,3071,9152
+Honda,damaged front bumper,3725,10367
+Honda,damaged rear bumper,7366,18781
+Honda,damaged windshield,8829,12528
+Tata,damaged door,5455,18748
+Tata,damaged window,7787,21909
+Tata,damaged right headlight,6721,20115
+Tata,damaged left headlight,4818,19041
+Tata,damaged mirror,9898,24436
+Tata,dent,9895,13629
+Tata,damaged hood,4845,17914
+Tata,damaged front bumper,3969,15956
+Tata,damaged rear bumper,7909,21230
+Tata,damaged windshield,6159,10576
+Ford,damaged door,7220,15199
+Ford,damaged window,8524,21470
+Ford,damaged right headlight,6264,14558
+Ford,damaged left headlight,8759,16494
+Ford,damaged mirror,9683,18774
+Ford,dent,5407,14697
+Ford,damaged hood,3541,13818
+Ford,damaged front bumper,5144,17185
+Ford,damaged rear bumper,8104,18894
+Ford,damaged windshield,6672,20752
+Volkswagen,damaged door,9465,21668
+Volkswagen,damaged window,2775,11751
+Volkswagen,damaged right headlight,7235,9264
+Volkswagen,damaged left headlight,8404,22959
+Volkswagen,damaged mirror,9964,13571
+Volkswagen,dent,7581,13944
+Volkswagen,damaged hood,3262,17875
+Volkswagen,damaged front bumper,7718,18234
+Volkswagen,damaged rear bumper,9163,17016
+Volkswagen,damaged windshield,4514,10775
+Nissan,damaged door,6096,14361
+Nissan,damaged window,2784,5536
+Nissan,damaged right headlight,8342,15297
+Nissan,damaged left headlight,5662,8307
+Nissan,damaged mirror,7555,18947
+Nissan,dent,5259,9816
+Nissan,damaged hood,8890,13436
+Nissan,damaged front bumper,9438,16784
+Nissan,damaged rear bumper,9145,22865
+Nissan,damaged windshield,3898,9749
+Mahindra,damaged door,7991,14440
+Mahindra,damaged window,6314,16159
+Mahindra,damaged right headlight,8116,20547
+Mahindra,damaged left headlight,7210,12984
+Mahindra,damaged mirror,8823,14783
+Mahindra,dent,2042,16484
+Mahindra,damaged hood,4440,8720
+Mahindra,damaged front bumper,6406,19730
+Mahindra,damaged rear bumper,4095,15300
+Mahindra,damaged windshield,8840,23362
+Kia,damaged door,8557,13712
+Kia,damaged window,2911,13368
+Kia,damaged right headlight,4162,13978
+Kia,damaged left headlight,8462,12840
+Kia,damaged mirror,8343,12976
+Kia,dent,6812,16710
+Kia,damaged hood,3384,8109
+Kia,damaged front bumper,6916,9193
+Kia,damaged rear bumper,2912,5791
+Kia,damaged windshield,8190,22680

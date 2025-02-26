@@ -1,0 +1,15 @@
+train: C:/Users/GaneshMunduri/Desktop/CarDamaged/CarDamagePrediction/datasets/data/images/train
+val: C:/Users/GaneshMunduri/Desktop/CarDamaged/CarDamagePrediction/datasets/data/images/val
+
+nc: 8
+
+# Classes
+names:
+  0: damaged door
+  1: damaged window
+  2: damaged headlight
+  3: damaged mirror
+  4: dent
+  5: damaged hood
+  6: damaged bumper
+  7: damaged windshield
