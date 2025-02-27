@@ -2,7 +2,7 @@ Machine Learning Models Repository
 
 This repository contains two machine learning models:
 
-Delinquency Prediction Model – Predicts the likelihood of a customer defaulting on a loan.
+Delinquency Prediction Model – Predicts the likelihood of a customer defaulting on loan.
 Car Damage Detection & Cost Estimation Model – Identifies damaged car parts from images and estimates the repair cost.
 
 📌 Models Overview
