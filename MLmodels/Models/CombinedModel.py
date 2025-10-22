@@ -13,7 +13,7 @@ from esgdata import ESG_Data
 app = FastAPI(title="Car Damage & Delinquency Prediction API", version="1.0")
 
 # API Key Setup
-API_KEY = "5C6RJ22H4NWWECrew"
+API_KEY = "your Api Key here"
 
 # Load Delinquency Prediction Model and Encoders
 model = joblib.load("delinquency_model.pkl")
