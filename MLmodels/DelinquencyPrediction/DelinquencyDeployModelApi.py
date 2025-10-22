@@ -12,7 +12,7 @@ label_encoders = joblib.load("label_encoders.pkl")
 app = FastAPI(title="Delinquency Prediction API", version="1.0")
 
 # API Key Setup
-API_KEY = "5C6RJ22H4NWWECrew"
+API_KEY = "your Api Key here"
 API_KEY_NAME = "X-API-KEY"
 api_key_header = APIKeyHeader(name=API_KEY_NAME, auto_error=True)
 
