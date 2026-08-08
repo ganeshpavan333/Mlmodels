@@ -9,7 +9,7 @@ import cv2
 cost_model = joblib.load("car_damage_cost_model.pkl")
 company_encoder = joblib.load("company_encoder.pkl")
 part_encoder = joblib.load("part_encoder.pkl")
-# comment 2 added from main branch
+#comment2 added
 # Load the trained YOLO model for damaged parts detection
 best_model_path = "runs/detect/train4/weights/best.pt"
 trained_model = YOLO(best_model_path)
