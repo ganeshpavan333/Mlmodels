@@ -4,7 +4,7 @@ from sklearn.preprocessing import LabelEncoder
 import joblib
 from ultralytics import YOLO
 import cv2
-#commentAdded
+
 # Load the trained cost estimation model and encoders
 cost_model = joblib.load("car_damage_cost_model.pkl")
 company_encoder = joblib.load("company_encoder.pkl")
