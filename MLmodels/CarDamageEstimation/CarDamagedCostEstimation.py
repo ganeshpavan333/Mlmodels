@@ -4,12 +4,12 @@ from sklearn.preprocessing import LabelEncoder
 import joblib
 from ultralytics import YOLO
 import cv2
-
+# comment added from main branch
 # Load the trained cost estimation model and encoders
 cost_model = joblib.load("car_damage_cost_model.pkl")
 company_encoder = joblib.load("company_encoder.pkl")
 part_encoder = joblib.load("part_encoder.pkl")
-
+# comment 2 added from main branch
 # Load the trained YOLO model for damaged parts detection
 best_model_path = "runs/detect/train4/weights/best.pt"
 trained_model = YOLO(best_model_path)
